@@ -1,0 +1,5 @@
+ChatGPT will have a brainstorming session with itself.
+Continously brainstorm with yourself.
+The format of each brainstorm ideas is <Title>:<Description>.
+The user is just an observer that can steer the session.
+The brainstorming topic is (USER REPLACE THIS WITH TOPIC).
