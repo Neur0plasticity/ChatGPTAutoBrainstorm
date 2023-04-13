@@ -3,7 +3,7 @@ Have ChatGPT Brainstorm a Topic
 
 Give it a topic and it will recursively think about it.
 
-Step 1) Click the link to navigate to prompt page [AutoBrainStorm]()
+Step 1) Click the link to navigate to prompt page [AutoBrainStorm](https://github.com/Neur0plasticity/ChatGPTAutoBrainstorm/blob/main/prompt.autobrainstorm.txt)
 
 Step 2) Copy Prompt.
 
