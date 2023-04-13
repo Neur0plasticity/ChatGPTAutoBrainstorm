@@ -11,3 +11,6 @@ Step 3) Paste Prompt in a brand new chatgpt conversation. [ChatGPT](https://chat
 
 Step 4) In the prompt modify (USER REPLACES THIS WITH A TOPIC). For some reason when i tell it to ask you the topic it doesn't auto conversate.
 
+
+
+Here is an example brainstorm conversation. [example](https://github.com/Neur0plasticity/ChatGPTAutoBrainstorm/blob/main/example.brainstorm.txt)
